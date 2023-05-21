@@ -23,15 +23,16 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaagaafer&show_icons=true&locale=en&layout=compact&theme=dark" alt="alaagaafer" />
-</p>
+<p align="right">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alaaGaafer&theme=darkhub&column=3&margin-w=15&margin-h=15&no-frame=true" alt="alaaGaafer" />
+  </a></p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alaagaafer&show_icons=true&locale=en&theme=dark" alt="alaagaafer" />
 </p>
 
-<p align="left">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaagaafer&theme=dark" alt="alaagaafer" />
 </p>
 

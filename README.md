@@ -26,8 +26,8 @@
   </a></p>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=alaagaafer&show_icons=true&locale=en&theme=dark" alt="alaagaafer" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaagaafer&theme=dark" alt="alaagaafer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alaagaafer&show_icons=true&locale=en&theme=dark" alt="alaagaafer" align="left" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaagaafer&theme=dark" alt="alaagaafer" align="right" />
 </div>
 
 

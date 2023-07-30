@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alaa Usama</h1>
-<h3 align="center">A junior student data science</h3>
+<h3 align="center">A Senior student data science</h3>
 
 - 🌱 I’m currently learning **React and Git**
 
